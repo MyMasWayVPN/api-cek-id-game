@@ -84,7 +84,7 @@ To use this API
 #### Base Url
 
 ```http
-https://api-cek-id-game-ten.vercel.app/
+https://api.cekid.games
 ```
 
 #### Get all games
